@@ -2,6 +2,9 @@
 Changelog for package strands_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2014-11-12)
+------------------
+
 0.0.4 (2014-11-07)
 ------------------
 * Added task_executor to metapackages.

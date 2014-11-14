@@ -1,3 +1,27 @@
+## metapackages (hydro) - 0.0.7-0
+
+The packages in the `metapackages` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --non-interactive -t hydro -r hydro metapackages` on `Fri, 14 Nov 2014 22:23:17 -0000`
+
+These packages were released:
+- `strands_base`
+- `strands_desktop`
+- `strands_robot`
+
+Version of package(s) in repository `metapackages`:
+- upstream repository: https://github.com/strands-project/metapackages.git
+- release repository: https://github.com/strands-project-releases/metapackages.git
+- rosdistro version: `0.0.6-1`
+- old version: `0.0.6-1`
+- new version: `0.0.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## metapackages (hydro) - 0.0.6-1
 
 The packages in the `metapackages` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --non-interactive -t hydro -r hydro metapackages` on `Wed, 12 Nov 2014 14:46:57 -0000`

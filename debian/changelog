@@ -1,0 +1,47 @@
+ros-hydro-strands-base (0.0.8-0precise) precise; urgency=high
+
+  * [strands_base] Added strands_recovery_behaviours
+  * Contributors: Christian Dondrup
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 18 Nov 2014 00:00:00 -0000
+
+ros-hydro-strands-base (0.0.7-0precise) precise; urgency=high
+
+  * Added routine_behaviours to the metapackage.
+  * Contributors: Nick Hawes
+
+ -- Marc Hanheide <marc@hanheide.net>  Fri, 14 Nov 2014 00:00:00 -0000
+
+ros-hydro-strands-base (0.0.6-0precise) precise; urgency=high
+
+  * added strands_bringup
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 12 Nov 2014 00:00:00 -0000
+
+ros-hydro-strands-base (0.0.5-0precise) precise; urgency=high
+
+  * added base package addressing #2 <https://github.com/strands-project/metapackages/issues/2>
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 10 Nov 2014 00:00:00 -0000
+
+ros-hydro-strands-base (0.0.4-0precise) precise; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Fri, 07 Nov 2014 00:00:00 -0000
+
+ros-hydro-strands-base (0.0.3-0precise) precise; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Thu, 06 Nov 2014 00:00:00 -0000
+
+ros-hydro-strands-base (0.0.2-0precise) precise; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 05 Nov 2014 00:00:00 -0000
+
+

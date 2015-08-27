@@ -2,6 +2,9 @@
 Changelog for package strands_extras
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.12 (2015-08-27)
+-------------------
+
 0.0.10 (2015-01-27)
 -------------------
 * Adding a strands_extras metapackage

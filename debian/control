@@ -1,0 +1,12 @@
+Source: ros-indigo-strands-extras
+Section: misc
+Priority: extra
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-strands-extras
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-strands-qsr-lib, ros-indigo-v4r-ros-wrappers
+Description: A metapackage to aggregate several packages.

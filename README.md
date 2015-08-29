@@ -1,3 +1,28 @@
+## metapackages (indigo) - 0.0.13-0
+
+The packages in the `metapackages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo metapackages` on `Sat, 29 Aug 2015 15:30:17 -0000`
+
+These packages were released:
+- `strands_base`
+- `strands_desktop`
+- `strands_extras`
+- `strands_robot`
+
+Version of package(s) in repository `metapackages`:
+- upstream repository: https://github.com/strands-project/metapackages.git
+- release repository: https://github.com/strands-project-releases/metapackages.git
+- rosdistro version: `0.0.12-0`
+- old version: `0.0.12-0`
+- new version: `0.0.13-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## metapackages (indigo) - 0.0.12-0
 
 The packages in the `metapackages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo metapackages` on `Thu, 27 Aug 2015 13:55:07 -0000`

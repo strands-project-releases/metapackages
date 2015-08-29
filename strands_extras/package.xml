@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>strands_extras</name>
-  <version>0.0.13</version>
+  <version>0.0.14</version>
   <description>A metapackage to aggregate several packages.</description>
   <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
   <license>MIT</license>
@@ -12,6 +12,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   
   <run_depend>strands_qsr_lib</run_depend>
+  <run_depend>v4r_ros_wrappers</run_depend>
 
   <export>
     <metapackage/> 
